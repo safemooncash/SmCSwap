@@ -28,10 +28,10 @@ export default {
     primary5: '#153d6f70',
 
     // color text
-    primaryText1: '#6da8ff',
-    buttonText: '#ffffff',
+    primaryText1: '#000000',
+    buttonText: '#000000',
 
     // secondary colors
-    secondary1: '#24c7d6'
+    secondary1: '#000000'
   }
 }
